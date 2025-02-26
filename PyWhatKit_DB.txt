@@ -1,0 +1,25 @@
+Date: 25/2/2025
+Time: 21:34
+Phone Number: +905318702025
+Message: Hey! This is an automated message.
+--------------------
+Date: 25/2/2025
+Time: 21:43
+Phone Number: +905318702025
+Message: Hey! This is an automated message test.
+--------------------
+Date: 25/2/2025
+Time: 21:50
+Phone Number: +905318702025
+Message: Hey! This is an automated message test.
+--------------------
+Date: 25/2/2025
+Time: 22:1
+Phone Number: +905318702025
+Message: Hey! This is an automated message sent at the scheduled time.
+--------------------
+Date: 25/2/2025
+Time: 22:2
+Phone Number: +905318702025
+Message: Hey! This is an automated message sent at the scheduled time.
+--------------------
